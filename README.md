@@ -1,5 +1,5 @@
 Soal 1
-Jalankan kode Python dengan menekan tombol "Run" atau menggunakan perintah untuk menjalankan kode.
+- Jalankan kode Python dengan menekan tombol "Run" atau menggunakan perintah untuk menjalankan kode.
 
 Soal 2
 - Pastikan folder/file berada di dalam xampp/httdocs
@@ -7,10 +7,10 @@ Soal 2
 - Jalankan file php di web browser dengan perintah http://localhost/Tes%20Finplan/Tes%20Logika/Soal2.php/http://localhost:8000/Soal2.php
 
 Soal 3
-Jalankan kode Python dengan menekan tombol "Run" atau menggunakan perintah untuk menjalankan kode.
+- Jalankan kode Python dengan menekan tombol "Run" atau menggunakan perintah untuk menjalankan kode.
 
 Soal 4
-Jalankan kode Python dengan menekan tombol "Run" atau menggunakan perintah untuk menjalankan kode.
+- Jalankan kode Python dengan menekan tombol "Run" atau menggunakan perintah untuk menjalankan kode.
 
 Soal 5
 - Simpan file dan pastikan file disimpan di direktori yang dapat diakses.

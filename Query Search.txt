@@ -1,0 +1,16 @@
+Belajar Pemrograman Python: Memahami Perulangan (https://www.petanikode.com/python-perulangan/)
+Belajar PHP: Memahami 4 Jenis Perulangan dalam Pemrograman PHP (https://www.petanikode.com/php-perulangan/)
+PHP implode() Function(https://www.w3schools.com/php/func_string_implode.asp)
+PHP substr_count() Function(https://www.w3schools.com/php/func_string_substr_count.asp)
+PHP array_merge() Function(https://www.w3schools.com/php/func_array_merge.asp)
+Find the smallest missing number (https://www.geeksforgeeks.org/find-the-first-missing-number/)
+How to print star pattern in JavaScript in a very simple manner? (https://stackoverflow.com/questions/28365737/how-to-print-star-pattern-in-javascript-in-a-very-simple-manner)
+Python program to check the validity of a Password (https://www.geeksforgeeks.org/python-program-check-validity-password/)
+Latihan Kode Program Python: Cek Bilangan Prima
+Memahami Rekursi dengan JavaScript
+
+
+
+
+
+

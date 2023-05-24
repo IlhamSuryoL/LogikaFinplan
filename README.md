@@ -1,5 +1,7 @@
 Soal 1
 - Jalankan kode Python dengan menekan tombol "Run" atau menggunakan perintah untuk menjalankan kode.
+Hasil
+![image.png]( {file:///C:/Users/User/OneDrive/Pictures/Screenshots/2023-05-24.png} )
 
 Soal 2
 - Pastikan folder/file berada di dalam xampp/httdocs
